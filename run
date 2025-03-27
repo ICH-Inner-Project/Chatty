@@ -1,0 +1,2 @@
+docker run --network=host backend &
+docker run --network=host frontend
