@@ -1,3 +1,0 @@
-docker buildx build -t chatty-backend:latest backend/
-docker buildx build -t chatty-frontend:latest frontend/
-echo "Done"

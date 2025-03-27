@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    image: backend:latest
+    network_mode: "host"
+
+  frontend:
+    build: ./frontend
+    image: frontend:latest
+    network_mode: "host"
