@@ -1,6 +1,0 @@
-touch backend/.env
-echo "PORT=3333" >> backend/.env
-echo "JWT_SECRET=c79555a57fa0b57f4c04d102447d301cd41b2277dbec87e3fe0c382ca96bbf68" >> backend/.env
-echo "EMAIL_USER=chatty.tech.info@gmail.com" >> backend/.env
-echo "PASS_USER=\"utms hdpx agqk pytj \"" >> backend/.env
-echo "Done"
